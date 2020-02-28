@@ -5,7 +5,7 @@ Convert number to thai language words with Golang
 # Getting Started
 Install : ติดตั้ง
 
-```go get -u github.com/earthrockey/numbertowords```
+```go get github.com/earthrockey/numbertowords```
 
 Use : ใช้งาน
 
