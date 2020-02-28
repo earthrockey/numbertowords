@@ -15,7 +15,7 @@ import (
 )
 
 func main() {
-  words := numbertowords.numbertowords(12345) //parameter type int output type string
+  words := numbertowords.numtowords(12345) //parameter type int output type string
   fmt.Println(words) 
 }
 ```
