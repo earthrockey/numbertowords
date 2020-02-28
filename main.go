@@ -2,7 +2,7 @@ package numbertowords
 
 import "strconv"
 
-func numbertowords(number int) string {
+func numtowords(number int) string {
 	var words string
 	var unit = map[int]string{
 		0: "ล้าน",
