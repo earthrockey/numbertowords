@@ -11,7 +11,7 @@ Use : ใช้งาน
 
 ```
 import (
-  "github.com/earthrockey/numbertowords
+  "github.com/earthrockey/numbertowords"
 )
 
 func main() {
