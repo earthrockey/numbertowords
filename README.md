@@ -1,4 +1,4 @@
-# numbertowords
+# NumberToWords
 Convert number to thai language words with Golang
 
 แปลงตัวเลขเป็นคำอ่านภาษาไทยด้วยภาษา Go
